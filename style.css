@@ -1,1 +1,22 @@
  /*Aqui será definido o estilo do projeto! */ 
+ h1 .tiitle {
+    font-size: 30px;
+    font-family: Arial, sans-serif;
+    color: #ec2121;
+ }
+p  {
+    font-family: Arial, sans-serif;
+    color: #8ac745;
+    text-align: justify;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}                       
+
+
+p2{
+    font-family: Arial, sans-serif;
+    color: #131414;
+    text-align: justify;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
